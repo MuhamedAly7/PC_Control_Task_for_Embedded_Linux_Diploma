@@ -34,3 +34,17 @@ Run the project with:
 
 ```bash
 make run
+```
+This will start the server and listen for incoming connections. Connect your mobile device to control your PC remotely.
+
+## Cleaning Up
+
+To clean the compiled binaries and objects, use:
+
+```bash
+make clean
+```
+## Features    
+- Open applications: YouTube, Calculator, Google, Terminal, LinkedIn, VSCode.
+- Control system functions: power off, sleep, take screenshots.
+
